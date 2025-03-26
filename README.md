@@ -18,4 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hkb2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkb2001&show_icons=true&locale=en&layout=compact" alt="hkb2001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkb2001&show_icons=true&locale=en" alt="hkb2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkb2001&" alt="hkb2001" /></p>
